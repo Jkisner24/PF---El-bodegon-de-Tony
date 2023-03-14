@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cocacola",
+    "price": 5,
+    "description": "Bebida negra sabor a cola proviene en su mayoría de la mezcla de azúcar y aceites de naranja, limón y vainilla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bouteille_de_Coca-Cola_d%27un_litre_cinq_001.jpg/220px-Bouteille_de_Coca-Cola_d%27un_litre_cinq_001.jpg",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Sprite",
+    "price": 5,
+    "description": "El refresco de máquina Sprite tiene un delicioso sabor a lima-limón y viene en tamaños Extra Pequeño, Pequeño, Mediano y Grande. Contiene agua carbonatada, azúcar o jarabe de glucosa-fructosa y aromas naturales de limón y lima. Contiene una fuente de fenilalanina.",
+    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_0721_MediumSprite_Glass_832x472:product-header-desktop?wid=830&hei=456&dpr=off",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Pepsi",
+    "price": 6,
+    "description": "Un refresco similar a la Coca-Cola, con un sabor ligeramente más dulce y un toque de lima.",
+    "image": "https://i.pinimg.com/originals/0c/49/62/0c49624a6a560c5d07de72a7f21da4e6.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Fanta",
+    "price": 7,
+    "description": "Un refresco de naranja con sabor afrutado y dulce que es muy popular en todo el mundo",
+    "image": "https://www.pngplay.com/wp-content/uploads/12/Fanta-PNG-HD-Free-File-Download.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "7-Up",
+    "price": 8,
+    "description": "Un refresco de limón y lima que es conocido por su sabor suave y fresco, y su falta de cafeína.",
+    "image": "https://www.nicepng.com/png/detail/916-9161554_7up-photo-png-7up-png.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Mountain Dew",
+    "price": 8,
+    "description": "Un refresco con sabor a cítricos y un toque de hierbas que es popular entre los amantes de las bebidas con cafeína.",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf793180-5ab2-466f-a756-600f6def747f/de7a4eu-3e76e755-b08e-4f39-9f2b-ec2cd46b52c4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmNzkzMTgwLTVhYjItNDY2Zi1hNzU2LTYwMGY2ZGVmNzQ3ZlwvZGU3YTRldS0zZTc2ZTc1NS1iMDhlLTRmMzktOWYyYi1lYzJjZDQ2YjUyYzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uN_iM5VtIGBWkvzMzagYDPxxPvuEN7k7an0nkMag8y4",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Dr Pepper",
+    "price": 6,
+    "description": "Un refresco con sabor a cereza, vainilla y caramelo que tiene un sabor distintivo y es muy popular en los Estados Unidos.",
+    "image": "https://www.pngarts.com/files/10/Dr-Pepper-PNG-Background-Image.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Canada Dry",
+    "price": 5,
+    "description": "Un refresco de jengibre suave y burbujeante que es conocido por sus propiedades digestivas y calmantes del estómago.",
+    "image": "https://www.seekpng.com/png/full/431-4314734_canada-dry-ginger-ale-canada-dry.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Schweppes Tónica",
+    "price": 7,
+    "description": "Una tónica de sabor amargo y burbujeante, elaborada con agua carbonatada, quinina y azúcar. Es conocida por ser un ingrediente común en la elaboración de gin-tonics y otras bebidas alcohólicas.",
+    "image": "https://www.vhv.rs/dpng/d/200-2001276_schweppes-tonic-water-png-transparent-png.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  },
+  {
+    "name": "Cerveza Corona",
+    "price": 8,
+    "description": "Es una cerveza ligera tipo pilsner con un sabor suave y refrescante, elaborada con maltas de cebada, lúpulo, levadura y agua.",
+    "image": "https://lalicorera.com/img/products/Corona-extra.png",
+    "category": "Refrescos",
+    "rating": 0,
+    "comments": []
+  }
+]

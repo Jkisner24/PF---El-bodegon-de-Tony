@@ -1,0 +1,105 @@
+[{
+  "name": "Puré de papas",
+  "price ": 5,
+  "description": "Elaborado con papas cocidas y molidas",
+  "image": "https://t2.uc.ltmcdn.com/es/posts/1/5/0/como_hacer_pure_de_papas_36051_600.webp",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Papas Fritas",
+  "price ": 6,
+  "description": "En forma de bastones",
+  "image": "https://www.cucinare.tv/wp-content/uploads/2020/02/Papas-fritas.jpg",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Salteado de verduras",
+  "price ": 4,
+  "description": "Contiene pimiento rojo, verde, amarillo, cebolla y berenjenas y semillas",
+  "image": "https://i.blogs.es/2028f1/wok_verduras_estilo_asiatico/1024_2000.jpeg",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Puré de batatas",
+  "price ": 5,
+  "description": "Elaborado con batatas cocidas y molidas",
+  "image": "https://mejorconsalud.as.com/wp-content/uploads/2018/08/pure-batata-patata-dulce-768x512.jpg?auto=webp&quality=45&width=1080&crop=16:9,smart,safe",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Espárragos con panceta",
+  "price ": 4,
+  "description": "Gratinamos y cocidos en el horno con panceta envuelta",
+  "image": "https://images-gmi-pmc.edge-generalmills.com/cec4b1e3-63b7-43b9-805c-99faea646bd9.jpg",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Ensalada César",
+  "price ": 7,
+  "description": "Ensalada de lechuga romana y croûtons con jugo de limón, aceite de oliva, huevo, salsa Worcestershire",
+  "image": "https://srecetas.es/system/images/2441/full.yy.jpg",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Ensalada Waldorf",
+  "price ": 7,
+  "description": "Contiene apio, manzana verde en trozos y crema de leche",
+  "image": "https://comeperuano.b-cdn.net/wp-content/uploads/2020/10/receta-Ensalada-waldorf.jpg.webp",
+  "category": "Guarniciones",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Sándwich de jamón y queso",
+  "price ": 7,
+  "description": "Incluye queso, jamon, lechuga, tomate, pepinillos, cebolla",
+  "image": "https://images.hola.com/imagenes/cocina/recetas/20210208183946/sandwich-jamon-queso/1-72-559/sandwich-havar-adob-t.jpg?tx=w_1200",
+  "category": "Sandwiches",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Sándwich de pollo",
+  "price ": 9,
+  "description": "Incluye lechuga, tomate, cebolla y pimiento",
+  "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/s-ndw_AfsS859PRoHcJpKwd6r4Me0FUBDtCg.png",
+  "category": "Sandwiches",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Sándwich lomo completo",
+  "price ": 10,
+  "description": "Lomo a la plancha en pan arabe. Incluye jamón y queso, huevo, tomate, lechuga y chimichurri",
+  "image": "https://www.clarin.com/img/2021/07/26/u-aUfp64d_1256x620__2.jpg#1670538474868",
+  "category": "Sandwiches",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Sándwich de tofu con queso",
+  "price ": 8,
+  "description": "Tofu salteado con aceite de oliva, queso y espincas cocidas con especias",
+  "image": "https://i0.wp.com/beginveganbegun.es/wp-content/uploads/2018/07/sandwich-vegetal-tofu-02.jpg?w=1500&ssl=1",
+  "category": "Sandwiches",
+  "rating": 0,
+  "comments": []
+}, {
+  "name": "Sándwich de palta y queso",
+  "price ": 7,
+  "description": "En pan integral. Incluye tomate, lechuga",
+  "image": "https://cdn.bioguia.com/embed/a72712e8f534f880fe42736cc61524313207/Sandwich_de_zucchini_y_aguacate_con_queso_y_pesto?imagick=1&size=750",
+  "category": "Sandwiches",
+  "rating": 0,
+  "comments": []
+}, {
+    "name": "Sándwich de bondiola desmenuzada",
+    "price ": 9,
+    "description": "En pan tradicional. Hecho con carne de cerdo desmenuzada y cocinada a fuego lento",
+    "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/s-ndw_jIBxUslfqJoZ5MC7AyrhEFPkc0wnRa.png",
+    "category": "Sandwiches",
+    "rating": 0,
+    "comments": []
+}]

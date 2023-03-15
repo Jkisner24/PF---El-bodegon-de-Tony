@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ceviche Peruano",
+    "price ": 35,
+    "description": "Parecerá un poco trillado mencionar el Ceviche Peruano como primero en la lista, pero es uno de los platillos típicos del Perú más deliciosos. Sin importar el sitio o el cocinero este plato, siempre te aportará una mezcla de sabores que explotan en tu boca.",
+    "image": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_orig.jpg",
+    "category": "Pescados",
+    "rating": 1,
+    "comments": []
+  },
+  {
+    "name": "La sopa Parihuela",
+    "price ": 25,
+    "description": "Si te gustan las sopas concentradas entonces debes probar la parihuela. Esta tradicional sopa incluye en sus ingredientes lo mejor del mar que va desde almejas, calamares, langostinos y camarones, con una combinación de vegetales que obtendrán una mezcla muy apreciada por los amantes de la gastronomía. Puedes deleitarte con uno de los más deliciosos platillos en minutos",
+    "image": "https://www.comedera.com/wp-content/uploads/2022/01/parihuela.jpg",
+    "category": "Pescados",
+    "rating": 2,
+    "comments": []
+  },
+  {
+    "name": "Arroz con Mariscos",
+    "price ": 26,
+    "description": "Un tradicional platillo que deleitará tu paladar, la combinación de texturas en tu boca, sus ingredientes y la forma en la que se presenta lo hace uno de los platos marinos más deliciosos. Este es uno de los mejores que probarás y lo mejor de todo es que puedes disfrutarlo en poco minutos",
+    "image": "https://recetascocinaperuana.com/wp-content/uploads/2020/08/arroz-con-mariscos.jpg",
+    "category": "Pescados",
+    "rating": 5,
+    "comments": []
+  },
+  {
+    "name": "Choritos a la Chalaca",
+    "price ": 30,
+    "description": "Este plato destaca por sus mejillones o choros servidos en su propia concha, pero aderezados con una salsa picante compuesta de cebolla, tomate, granos de choclo y ají,  con un toque aromático final de jugo de limón. Simplemente una delicia.",
+    "image": "https://perudelights.com/wp-content/uploads/2012/04/1.jpg",
+    "category": "Pescados",
+    "rating": 5,
+    "comments": []
+  },
+  {
+    "name": "Chicharrones de Calamar",
+    "price ": 35,
+    "description": "No podía faltar los tradicionales chicharrones, pero esta vez están hechos de calamar o pota. Un plato marino que sirve de entremés y que combinados con otros platos como el Ceviche, dejan a muchos con ganas de seguir probando este crocante y crujiente calamar. No dejes de probar uno deliciosos chicharrones listos en pocos minutos, en presentación picante o clásico.",
+    "image": "https://es.cravingsjournal.com/wp-content/uploads/2018/07/chicharron-de-calamar-1.jpg",
+    "category": "Pescados",
+    "rating": 5,
+    "comments": []
+  },
+  {
+    "name": "Arroz chaufa de mariscos",
+    "price ": 40,
+    "description": "Con una base de arroz y especies orientales, esta receta incluye diversos insumos marinos. Probarás desde el conchas de abanico, langostinos, calamares, camarones y caracoles por nombrar las más notables. Su fusión de colores y texturas hacen de este platillo uno de los más solicitados en los restaurantes.",
+    "image": "https://buenazo.cronosmedia.glr.pe/original/2021/09/16/6143e231d4bfcf3c4448e32e.jpg",
+    "category": "Pescados",
+    "rating": 5,
+    "comments": []
+  },
+  {
+    "name": "Jalea de pescado",
+    "price ": 22,
+    "description": "Esta receta lleva su base en pescados y mariscos fritos, con una capa bastante crocante. Su delicia se acompaña de una salsa de cebolla. Suele servirse con yuca o papas fritas con una salsa complementaria de rocoto y mayonesa.",
+    "image": "https://images-gmi-pmc.edge-generalmills.com/3ece958a-cb33-40c1-8307-5479a6d3eed2.jpg",
+    "category": "Pescados",
+    "rating": 5,
+    "comments": []
+  },
+  {
+    "name": "Chilcano",
+    "price ": 15,
+    "description": "Este plato de sencilla preparación, no deja de ser delicioso entre los platos marinos peruanos. Un caldo concentrado de pescado que despertará tus sentidos, suele ser servido como entrada de cortesía en algunos lugares de comida.",
+    "image": "https://i.ytimg.com/vi/nNJGCHV1vbE/maxresdefault.jpg",
+    "category": "Pescados",
+    "rating": 4,
+    "comments": []
+  },
+  {
+    "name": "Sudado de pescado",
+    "price ": 26,
+    "description": "Un pescado preparado con ricos vegetales, su nombre se da debido a su preparación al vapor. La carne del pescado preparada de esta forma se siente tierna, al punto de experimentar como se derrite en tu boca. Sin duda alguna un plato que se acompaña de una porción de arroz y ensaladas.",
+    "image": "https://origin.cronosmedia.glr.pe/large/2021/03/18/lg_605360564332ac2dfc54e0cb.jpg",
+    "category": "Pescados",
+    "rating": 4,
+    "comments": []
+  },
+  {
+    "name": "Milanesas Rellenas de Jamón y Queso",
+    "price ": 21,
+    "description": "Disfruta de estas exquisitas milanesas de cerdo rellenas de jamón y queso con un aderezo picosito de chile habanero y pimiento, ¡son una excelente opción para compartir en familia!",
+    "image": "https://cdn7.kiwilimon.com/ss_secreto/2815/320x320/p_17704.jpg.webp",
+    "category": "Milanesas",
+    "rating": 2,
+    "comments": []
+  },
+  {
+    "name": "Milanesas vegetarianas",
+    "price ": 23,
+    "description": "¿Quién dice que no es posible comer milanesas sin comer carne? Déjate sorprender con el exquisito sabor de estas milanesas vegetarianas hechas con berenjenas, pan molido y queso parmesano.",
+    "image": "https://cdn7.kiwilimon.com/ss_secreto/2815/320x320/p_17705.jpg.webp",
+    "category": "Milanesas",
+    "rating": 2,
+    "comments": []
+  },
+  {
+    "name": "Tacos de milanesa de Res",
+    "price ": 30,
+    "description": "Estos deliciosos taquitos de milanesa de res se acompañan con salsa verde, papas y un toque de aguacate. ¡Están para chuparse los dedos!",
+    "image": "https://cdn7.kiwilimon.com/ss_secreto/2815/320x320/p_17706.jpg.webp",
+    "category": "Milanesas",
+    "rating": 4,
+    "comments": []
+  },
+  {
+    "name": "Milanesa de pollo con mole",
+    "price ": 25,
+    "description": "Las milanesas son un platillo cotidiano en los hogares mexicanos y muy probablemente en algunas otras partes del mundo. En esta ocasión, te presentamos una milanesa que se acompaña con un mole muy fácil y rápido de preparar, ¡le dará un sabor totalmente diferente!",
+    "image": "https://cdn7.kiwilimon.com/ss_secreto/2815/320x320/p_17707.jpg.webp",
+    "category": "Milanesas",
+    "rating": 3,
+    "comments": []
+  }
+]

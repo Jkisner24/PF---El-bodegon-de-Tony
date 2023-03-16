@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Hot Dog con aderezo",
+        "price": 10,
+        "description": "Pan para panchos y salchicha con mayonesa, ketchup y mostaza",
+        "image": "https://www.deananddennys.com/menu-hotdogs#images-1",
+        "category": "Hot Dogs",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Hot Dog con lluvia de papas",
+        "price": 10,
+        "description": "Pan para panchos y salchicha con lluvias de papas pay",
+        "image": "https://deananddennys.com/stage/timthumb.php?src=./contenidos/1612363728.jpg&h=800&w=800&zc=2",
+        "category": "Hot Dogs",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Hot Dog Cheddar",
+        "price": 20,
+        "description": "Pan para panchos y salchicha con queso cheddar",
+        "image": "https://www.deananddennys.com/menu-hotdogs#images-2",
+        "category": "Hot Dogs",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Hot Dog Cheddar y Panceta",
+        "price": 35,
+        "description": "Pan para panchos, salchicha con queso cheddar y panceta",
+        "image": "https://www.deananddennys.com/menu-hotdogs#images-3",
+        "category": "Hot Dogs",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Hot Dog Chili",
+        "price": 45,
+        "description": "Pan para panchos, salchicha con guacamole y chilis",
+        "image": "https://deananddennys.com/stage/menu-hotdogs#images-4",
+        "category": "Hot Dogs",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Ñoquis de papa con salsa filetto",
+        "price": 20,
+        "description": "Ñoquis caseros de papas con salsa filetto, la cual incluye salsa de tomate, ajo, aceite de oliva y especias",
+        "image": "https://www.elliberal.com.ar/fotos/notas/2020/05/31/530707_20200531143720.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Canelones de verdura con salsa blanca",
+        "price": 35,
+        "description": "Canelones caseros elaborados con panqueques rellenos de espinaca, ricota y queso. Incluye salsa blanca elaborada con leche, harina, manteca, sal y nuez moscada",
+        "image": "https://www.recetasnestle.com.ar/sites/default/files/srh_recipes/5e19e843122302eaae1918ec8efb2610.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Ravioles de ricota con salta filetto",
+        "price": 50,
+        "description": "Ravioles caseros rellenos de ricota con salsa filetto, la cual incluye salsa de tomate, ajo, aceite de oliva y especias",
+        "image": "https://babycocina.com/wp-content/uploads/2021/06/Recetas-de-pastas-italianas.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": []
+    },
+    {
+        "name": "Lasagna de carne",
+        "price": 35,
+        "description": "Lasagna rellena de carne, queso y salsa filetto, la cual incluye salsa de tomate, ajo, aceite de oliva y especias",
+        "image": "https://www.recetasdesbieta.com/wp-content/uploads/2018/10/lasagna-original..jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": []  
+    },
+    {
+        "name": "Penne rigate con salsa de queso",
+        "price": 50,
+        "description": "Pasta penne rigate con salsa de crema de queso",
+        "image": "https://jetextramar.com/wp-content/uploads/2022/09/receta-de-crema-de-queso-snel-scaled.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": []  
+    },
+    {
+        "name": "Spaguettis con salsa bolognesa",
+        "price": 45,
+        "description": "Spaguettis caseros con salsa bolognesa, la cual incluye salsa de tomate, cebolla, ajo carne picada",
+        "image": "https://jetextramar.com/wp-content/uploads/2022/09/receta-de-crema-de-queso-snel-scaled.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": [] 
+    },
+    {
+        "name": "Sorrentinos de jamón y queso con salsa a los 4 quesos",
+        "price": 45,
+        "description": "Sorrentinos caseros rellenos de jamón y queso con salsa de crema de mozzarella, gorfonzola, fontina y parmesano",
+        "image": "https://assets.unileversolutions.com/recipes-v2/210697.jpg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": [] 
+    },
+    {
+        "name": "Capeletis de verdura",
+        "price": 45,
+        "description": "Capeletis caseros rellenos de espinaca y ricota",
+        "image": "https://resizer.glanacion.com/resizer/Yi5DeBA4ou8T51rezlx1pcbHwe0=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/F2PRDWVNYFDPLH3VZWVQXWXA6U.jpeg",
+        "category": "Pastas",
+        "rating": 0,
+        "comments": [] 
+    }
+]

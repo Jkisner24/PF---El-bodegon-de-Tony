@@ -1,0 +1,181 @@
+[{
+    "name": "Pizza Mozzarella",
+    "price":  15,
+    "description": "Pizza de 8 porciones con mozzarella y salsa de tomate. Masa al molde",
+    "image": "https://images.rappi.com.ar/products/335160-1543425450.png?e=webp&d=511x511&q=85",
+    "category": "Pizza" ,
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza de Morrón",
+    "price": 17,
+    "description": "Pizza de 8 porciones con mozzarella, jamón cocido y morrones. Masa al molde.",
+    "image": "https://images.rappi.com.ar/products/335163-1543425462.png?e=webp&d=511x511&q=85",
+    "category": "Pizza",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza Fugazzeta",
+    "price": 20,
+    "description": "Pizza de 8 porciones con relleno de mozzarella y cebolla. Masa al molde.",
+    "image": "https://images.rappi.com.ar/products/335168-1543425516.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza Pepperoni",
+    "price": 20,
+    "description": "Pizza de 8 porciones con mozzarella y fetas de pepperoni. Masa al molde.",
+    "image": "https://images.rappi.com.ar/products/335168-1543425516.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating": 0 ,
+    "comments": []
+},
+{
+    "name": "Pizza Calabresa" ,
+    "price": 23,
+    "description": "Pizza de 8 porciones con mozzarella, rodajas de tomate y longaniza. Masa al molde.",
+    "image": "https://images.rappi.com.ar/products/348422-1550770001.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating": 0,
+    "comments": []
+},
+{
+    "name": "Pizza 4 Quesos" ,
+    "price": 20,
+    "description": "Pizza de 8 porciones con mozzarella, pomodoro, roquefort, provolone, sardo y olivas verdes.",
+    "image": "https://images.rappi.com.ar/products/58d6d52d-e21c-46fc-9279-49fa7fb5f5c7-1658238503138.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza de Jamón Crudo y Rúcula",
+    "price": 24,
+    "description": "Pizza de 8 porciones con mozzarella, pomodoro, jamón crudo, rúcula y olivas verdes.",
+    "image": "https://images.rappi.com.ar/products/93cf388a-e998-498c-b8a1-00ae210a051c-1658237814956.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza de Palmitos",
+    "price": 25,
+    "description": "Pizza de 8 porciones con palmitos mozzarella y salsa golf.",
+    "image": "https://images.rappi.com.ar/products/595286-1586869884387.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza con anchoas" ,
+    "price": 18,
+    "description": "Pizza de 8 porciones con mozzarella, anchoas, aceitunas y orégano.",
+    "image": "https://images.rappi.com.ar/products/161816-1528910177.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas",
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Pizza capresse",
+    "price": 20,
+    "description": "Pizza de 8 porciones con mozzarella, tomate en rodajas, albahaca, aceitunas y orégano.",
+    "image": "https://images.rappi.com.ar/products/161820-1528910333.png?e=webp&d=511x511&q=85",
+    "category": "Pizzas" ,
+    "rating":0 ,
+    "comments": []
+},
+{
+    "name": "Ensalada falafel",
+    "price":  16,
+    "description": "Mix de lechugas, mix de quinoas, cebolla, tomate, perejil, almendras activadas y falafels. con aderezo de rúcula. sin gluten.",
+    "image": "https://images.rappi.com.ar/products/bd49c0f1-494c-4daf-a1c8-586aa65b30af-1658957249295.png?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Roll mediterráneo",
+    "price":  25,
+    "description": "Wrap de masa integral, hummus, tapenade (pasta de aceitunas negras), tomates secos, espinaca y berenjena grillada.",
+    "image": "",
+    "category": "Vegetariana",
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Quesadilla",
+    "price":  15,
+    "description": "Queso tipo mozzarella casero, calabaza, espinaca, cilantro, salsa bbq casera, portobellos, verdeo. acompañado de ensalada.",
+    "image": "https://images.rappi.com.ar/products/5cb6214b-3ac0-4652-8788-b6f274c207bd-1651877151645.png?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Super Bowl",
+    "price":  22,
+    "description": "Quinoa, humus de remolacha, zapallo, garbanzos, hojas verdes, hongos, chauchas, tofu, tomate, rabanitos, manzana, palta, hojas verdes.",
+    "image": "https://images.rappi.com.ar/products/1921586a-3425-4532-beb2-a14b3ab20833-1677180709736.png?e=webp&d=511x511&q=85",
+    "category": "Vegetariana",
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Ceviche de Girgolas",
+    "price":  15,
+    "description": "Girgolas, leche de tigre de coco, mango, chauchas y mani tostado.",
+    "image": "https://images.rappi.com.ar/products/b5b6c0ee-1bef-4873-b9b8-54fb8b113139-1677180729754.png?e=webp&d=511x511&q=85",
+    "category": "Vegetariana",
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Tofu Napolitano",
+    "price":  15,
+    "description": "Tofu con papas asadas, quinoa con verduritas, guacamole, ensalada de hojas verdes con vegetales de estación.",
+    "image": "https://images.rappi.com.ar/products/1276384-1594873683533.jpg?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Wok de Quinoa",
+    "price":  15,
+    "description": "Wok de quinoa con vegetales de estación, cubitos de tofu, salsa, mix de semillas, cajú tostado y salsa teriyaki.",
+    "image": "https://images.rappi.com.ar/products/1512382-1624395866910.jpg?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Tarta de zanahoria",
+    "price":  15,
+    "description": "Tarta de zanahoria, porción individual. Sin gluten",
+    "image": "https://images.hola.com/imagenes/cocina/recetas/20200320163627/tarta-zanahoria-levadura-madre/0-800-969/tarta-zanahoria-m.jpg",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Avocado Toast",
+    "price": 20,
+    "description": "Mezcla de palta con tomate, aceite de oliva, decorado con rabanitos y manzana verde.",
+    "image": "https://images.rappi.com.ar/products/gp_breakfast_otra_avocado_toast.png?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+},
+{
+    "name": "Poke Vegano",
+    "price":  23,
+    "description": "Poke de mezclum, kale, quinoa, repollo morado, tofú, palta, semillas de calabaza y salsa de soja.",
+    "image": "https://images.rappi.com.ar/products/2147027-1626715632268.jpg?e=webp&d=511x511&q=85",
+    "category": "Vegetariana" ,
+    "rating":0,
+    "comments": []
+}
+]
